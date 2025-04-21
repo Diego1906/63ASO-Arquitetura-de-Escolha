@@ -1,15 +1,19 @@
+# Trabalho de Conclusão da Matéria
+
 # Curso: Arquitetura de Soluções
 
 # Turma: 63ASO
 
 # Matéria: Arquitetura de Escolha
 
-# Trabalho de Conclusão da Matéria
-O objetivo deste repositório é centralizar as informações sobre os requisitos do projeto e o Trabalho Final da matéria.
+### Tema
+- E-commerce
+### Descrição
+- Neste trabalho, abordaremos os desafios da escalabilidade no E-commerce.
+- O objetivo deste repositório é centralizar as informações sobre os requisitos do projeto e o Trabalho Final da matéria.
+- A documentação será salva no formato PDF.
 
-A documentação será salva no formato PDF para consulta posterior
-
-# Informações importantes:
+# Informações importantes
 Gravar um vídeo explicando o projeto como um todo e desenhos.
 
 Obs: todos os integrantes devem apresentar uma parte do projeto.
