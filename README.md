@@ -26,7 +26,7 @@ Dúvidas contatar os E-mail: profleonardo.pinho@fiap.com.br / leonardo.c.pinho@g
 https://github.com/leonardopinho1/fiap_projeto_final_IT_Architecture_Design-Styles
 
 # Grupo (Alunos):
-- Cleiton RM: 0000
+- Cleiton
 - Diego Farias
 - Diogo
 - Erick Fonseca
